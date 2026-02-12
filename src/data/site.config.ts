@@ -10,10 +10,10 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	site: 'https://blog-template-gray.vercel.app/', // Write here your website url
+	site: 'https://011205.xyz/', // Write here your website url
 	author: 'Aleeyoo', // Site author
-	title: 'All about Aleeyoo !!!', // Site title.
-	description: 'A blog about Aleeyoo, a student from NIT Rourkela.', // Description to display in the meta tags
+	title: 'Iterativity', // Site title.
+	description: 'A blog about Aleeyoo.', // Description to display in the meta tags
 	lang: 'zh_CN',
 	ogLocale: 'zh_CN',
 	shareMessage: 'Share this post', // Message to share a post on social media
