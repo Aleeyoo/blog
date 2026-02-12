@@ -2,7 +2,7 @@
 title: '一份周刊 第一期'
 description: '一份周刊(总1期) 26年第01周'
 pubDate: '2026-01-04'
-heroImage: 'src\assets\images\placeholder-hero.jpg'
+heroImage: '../../src/assets/images/placeholder-hero.jpg'
 category: 'Weekly'
 tags: ['Weekly']
 draft: false

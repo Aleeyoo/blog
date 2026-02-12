@@ -2,7 +2,7 @@
 title: 'Typora 1.9.5 订阅破解'
 description: '使用自动化脚本，对 Typora1.9.5 订阅破解。'
 pubDate: '2025-12-22'
-heroImage: 'src\assets\images\Typora_Activation_Script.png'
+heroImage: '../../src/assets/images/Typora_Activation_Script.png'
 category: 'Blog'
 tags: ['Instruments', 'Methodology']
 draft: false

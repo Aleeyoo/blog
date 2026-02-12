@@ -2,7 +2,7 @@
 title: 'Markdown 语法说明'
 description: '验证此模板的 Markdown 语法展示效果。'
 pubDate: '2025-12-12'
-heroImage: 'src\assets\images\placeholder-hero.jpg'
+heroImage: '../../src/assets/images/placeholder-hero.jpg'
 category: 'Other'
 tags: ['markdown', 'Methodology']
 draft: true
